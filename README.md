@@ -15,12 +15,13 @@ I enjoy turning complex requirements into clean, maintainable solutions and coll
 **WordPress**
 - Custom Themes & Templates
 - Custom Post Types & Advanced Custom Fields
+- Custom Plugins
 - WP_Query, WP-CLI, Gravity Forms
 - Divi, Yoast SEO
 
 **Tools & Workflow**
 - Git, GitHub, Figma, PhpStorm, Visual Studio Code
-- Kinsta, Laravel Valet
+- Kinsta, Cloudflare, Laravel Valet
 - Responsive Design, Accessibility, Technical SEO
 - Google Analytics 4, Google Tag Manager
 
