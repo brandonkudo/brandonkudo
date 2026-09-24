@@ -1,5 +1,5 @@
 
-# Hi, I'm Brandon 👋
+# Hi, I'm Brandon 
 
 I'm a web developer with 8 years of experience building, maintaining, and optimizing WordPress websites. I specialize in custom theme development, reusable components, and responsive, accessible web experiences.
 
@@ -7,7 +7,7 @@ Most recently, I worked as a Website Developer at **LocaliQ | USA TODAY Network*
 
 I enjoy turning complex requirements into clean, maintainable solutions and collaborating with designers and marketing teams to create engaging web experiences.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Front End**
 - HTML5, CSS3, SCSS, JavaScript, jQuery, PHP
@@ -24,7 +24,7 @@ I enjoy turning complex requirements into clean, maintainable solutions and coll
 - Responsive Design, Accessibility, Technical SEO
 - Google Analytics 4, Google Tag Manager
 
-## 🚀 Selected Work
+## Selected Work
 
 ### LocaliQ | USA TODAY Network
 Enterprise website development across multiple marketing platforms.
@@ -40,8 +40,8 @@ WordPress development and team leadership for veterinary marketing.
 - Developed 8 reusable themes and a component library to streamline development.
 - Led and mentored front-end developers.
 
-## 🔗 Connect With Me
+## Connect With Me
 
-- 🌐 **Portfolio:** [brandonkudo.github.io](https://brandonkudo.github.io/)
-- 💻 **GitHub:** [github.com/brandonkudo](https://github.com/brandonkudo)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/brandonkudo/](https://www.linkedin.com/in/brandonkudo/)
+-  **Portfolio:** [brandonkudo.github.io](https://brandonkudo.github.io/)
+-  **GitHub:** [github.com/brandonkudo](https://github.com/brandonkudo)
+-  **LinkedIn:** [https://www.linkedin.com/in/brandonkudo/](https://www.linkedin.com/in/brandonkudo/)
